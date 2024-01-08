@@ -193,5 +193,73 @@
 
 }
 
+.fb{
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.subs{
+
+      text-align: center;
+
+}
+
+.em{
+    text-align: center;
+    padding-top: 150px;
+
+}
+
+.ne{
+
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+
+
+
+}
+
+.a{
+    color: rgb(80, 80, 80);
+    font-family: Arial, Helvetica, sans-serif;
+
+
+
+}
+
+.email{
+       height: 35px;
+       width: 400px;
+       border-radius: 40px;
+       border: none;
+       background: #fff;
+
+
+}
+
+.btn{
+       color: aliceblue;
+      width: 200px;
+      background-color: red;
+      border-radius:30px ;
+      border: none;
+      font-size: 20px;
+
+
+}
+
+
+.sml{
+          background-color: rgb(252, 226, 221);
+          background-size: cover;
+          height: 600px;
+          width: 1300px;
+          
+
+
+}
 
 
