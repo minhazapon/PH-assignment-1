@@ -263,7 +263,7 @@
 }
 
 .c{
-    color: blueviolet;
+    color: rgb(255, 255, 255);
 
 
 }
@@ -298,8 +298,83 @@
         background-size: cover;
         height: 600px;
         width: 1300px;
+        padding-top: 100px;
 
 
+
+
+}
+
+.num{
+     color: aliceblue;
+
+
+}
+
+.www{
+
+     color: #fff;
+
+}
+
+.bb{
+     color: #fff;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     font-size: 20px;
+
+}
+
+.hr1{
+      height: 1px;
+      width: 1000px;
+      align-items: center;
+      justify-content: center;
+      padding-left: 100px;
+      padding-right: 100px;
+      text-align: center;
+
+
+}
+
+
+.social{
+         display: flex;
+         gap: 20px;
+         justify-content: center;
+         align-items: center;
+
+
+}
+
+.hr2{
+    height: 1px;
+    width: 1000px;
+    align-items: center;
+    justify-content: center;
+    padding-left: 100px;
+    padding-right: 100px;
+    text-align: center; 
+
+
+
+}
+
+
+.last{
+
+        display: flex;
+        gap: 500px;
+        padding-left: 100px;
+
+
+
+
+}
+
+.lc{
+    color: #fff;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
 
 
 }
