@@ -385,3 +385,93 @@
 
 }
 
+.nbf{ 
+      color: red;
+      font-family: 'Times New Roman', Times, serif;
+      font-size: 20px;
+   
+
+}
+
+.cs{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+
+
+}
+
+.hp{
+      color: rgb(78, 78, 78);
+
+
+}
+
+.ep{
+     border-radius: 50%;
+     border: 10px solid red;
+
+}
+
+.t{
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+
+
+}
+
+.hny{
+      color: rgb(56, 56, 56);
+
+
+
+}
+
+.hny2{
+      display: flex;
+      gap: 180px;
+      justify-content: center;
+      align-items: center;
+
+}
+
+
+.offer{
+      display: flex;
+      gap: 50px;
+      justify-content: center;
+      align-items: center;
+
+
+
+}
+
+
+.hday{
+   color: red;
+   font-family: 'Times New Roman', Times, serif;
+   font-size: 50px;
+
+
+}
+
+.span{
+      color: black;
+
+
+}
+
+.gt{
+     color: rgb(77, 77, 77);
+
+
+}
+
+
+.holiday{
+
+        text-align: center;
+
+
+}
